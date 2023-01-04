@@ -1,5 +1,5 @@
 import math,os
 if __name__=='__main__':
-  y=9.9;a=math.erf(y)
-  w=math.sqrt(8.4)
+  y=1.2;a=math.erf(y)
+  w=math.sqrt(3.2)
   print(w/a)
